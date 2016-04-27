@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiarosar03gand_0415.png"; bbox 0 0 2185 3611; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1479 592 2007 924">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1479 592 2007 924">
+     <span class='ocr_line' id='line_1_1' title="bbox 1483 592 1958 697; baseline 0.006 -45"><span class='ocrx_word' id='word_1_1' title='bbox 1483 592 1825 697; x_wconf 52' lang='lat' dir='ltr'><em>smssassmmsvssyffl</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1834 627 1871 667; x_wconf 50' lang='lat'><em>[3</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1880 651 1886 661; x_wconf 87' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1895 621 1958 669; x_wconf 66' lang='grc' dir='ltr'><em>ΜΒ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1479 674 1906 738; baseline -0.007 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1479 674 1783 738; x_wconf 51' lang='lat' dir='ltr'><em>mgysswlzona„</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1794 688 1906 734; x_wconf 61' lang='lat' dir='ltr'><em>mae</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1483 757 2007 842; baseline -0.006 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1483 757 2007 842; x_wconf 51' lang='lat' dir='ltr'><em>mmmmm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1484 855 1931 924; baseline -0.004 -12"><span class='ocrx_word' id='word_1_8' title='bbox 1484 855 1802 924; x_wconf 44' lang='grc' dir='ltr'><em>Μ]</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1819 873 1931 911; x_wconf 51' lang='grc' dir='ltr'><em>ηπ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
